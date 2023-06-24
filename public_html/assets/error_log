@@ -1,0 +1,59 @@
+[03-Nov-2022 08:48:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:48:32 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:48:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:49:00 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:50:45 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:50:48 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:50:57 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:50:59 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:51:27 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:51:31 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:51:31 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/c492yyog1m3f/public_html/assets/District.php:714
+Stack trace:
+#0 {main}
+  thrown in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 08:52:09 UTC] PHP Notice:  Undefined variable: res in /home/c492yyog1m3f/public_html/assets/District.php on line 723
+[03-Nov-2022 08:52:16 UTC] PHP Notice:  Undefined variable: res in /home/c492yyog1m3f/public_html/assets/District.php on line 723
+[03-Nov-2022 08:52:19 UTC] PHP Notice:  Undefined variable: res in /home/c492yyog1m3f/public_html/assets/District.php on line 723
+[03-Nov-2022 08:53:05 UTC] PHP Notice:  Undefined variable: res in /home/c492yyog1m3f/public_html/assets/District.php on line 723
+[03-Nov-2022 08:53:11 UTC] PHP Notice:  Undefined variable: res in /home/c492yyog1m3f/public_html/assets/District.php on line 723
+[03-Nov-2022 08:56:28 UTC] PHP Notice:  Undefined index: Odisha in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[03-Nov-2022 15:11:35 UTC] PHP Notice:  Undefined index: Ladakh in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[11-Jan-2023 15:04:24 UTC] PHP Notice:  Undefined index: Himachal in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[11-Jan-2023 15:12:36 UTC] PHP Notice:  Undefined index: Chandigarh in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[11-Jan-2023 15:29:37 UTC] PHP Notice:  Undefined index:  in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[11-Jan-2023 15:29:39 UTC] PHP Notice:  Undefined index: Chandigarh in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[11-Jan-2023 15:29:47 UTC] PHP Notice:  Undefined index: Daman and Diu  in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[18-Jan-2023 09:26:14 UTC] PHP Notice:  Undefined index: statename in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[18-Jan-2023 09:49:25 UTC] PHP Notice:  Undefined index: Telangana in /home/c492yyog1m3f/public_html/assets/District.php on line 714
+[18-Jan-2023 10:05:29 UTC] PHP Notice:  Undefined index:  India in /home/c492yyog1m3f/public_html/assets/District.php on line 714
